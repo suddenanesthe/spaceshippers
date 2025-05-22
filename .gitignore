@@ -1,0 +1,10 @@
+debug
+log.txt
+.vscode/*
+*.pdn
+*.pprof
+*.exe
+savefile
+~$*
+*.dll
+go.work*
