@@ -12,7 +12,7 @@ More seriously, Space Shippers is a spaceship simulation game wherein (eventuall
 
 ![screenshot as of 2017-12-03](res/readme/space.png)
 
-Thanks so much for looking!
+Thanks so much for looking!.
 
 ## Install。
 
