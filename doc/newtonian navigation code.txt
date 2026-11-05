@@ -1,4 +1,4 @@
-Hi Ben! This is a letter from past you to present you. 
+Hi Ben! This is a letter from past you to present you. .
 
 This is the old navigation code. It's cool. Cool as hell. In most cases it finds the target. 
 But it figures everything out in real time and I need something I can compute beforehand so I can
