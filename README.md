@@ -14,6 +14,6 @@ More seriously, Space Shippers is a spaceship simulation game wherein (eventuall
 
 Thanks so much for looking!
 
-## Install
+## Install。
 
 Just... don't. Not yet anyways! If you must, know that Space Shippers depends upon [go-sdl2](http://github.com/veandco/go-sdl2), which in turn depends upon having SDL2 installed. I'll put up some nice instructions soon, I promise.
