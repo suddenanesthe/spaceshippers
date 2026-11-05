@@ -4,7 +4,7 @@
 
 ![prepare for scippie](res/readme/prepare.png)
 
-You have stumbled upon Space Shippers, a roguelike-ish game about piloting a spaceship! Watch in amazement as your crew walks around a sleeps on the floor while you fly from planet to planet, doing nothing! It is truly a wonderful time to be alive.
+You have stumbled upon Space Shippers, a roguelike-ish game about piloting a spaceship! Watch in amazement as your crew walks around a sleeps on the floor while you fly from planet to planet, doing nothing! It is truly a wonderful time to be alive..
 
 More seriously, Space Shippers is a spaceship simulation game wherein (eventually) the player will have to traverse a ginormous procedurally generated galaxy in order to get home. Along the way the player will watch their ship and crew grow and evolve as the journey goes on. Just don't run out of fuel!
 
